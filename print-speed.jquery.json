@@ -1,0 +1,26 @@
+{
+  "name": "print-speed",
+  "title": "Print Speed",
+  "description": "Measures user input speed using HTML5 User Timing API",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rs-orlov/print-speed",
+  "author": {
+    "name": "Roman Orlov",
+    "email": "rs.orlov@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rs-orlov/print-speed.git"
+  },
+  "bugs": "https://github.com/rs-orlov/print-speed/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rs-orlov/print-speed/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.8.*"
+  },
+  "keywords": []
+}
